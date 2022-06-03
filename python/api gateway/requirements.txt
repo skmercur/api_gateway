@@ -1,0 +1,7 @@
+pandas
+flask
+prettytable
+xlrd
+requests
+openpyxl
+flask-cors
