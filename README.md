@@ -2,6 +2,7 @@
 # API GATEWAY
 a basic api gateway written in python and using  [flask](https://github.com/pallets/flask "flask")  to forward your requests to the designated endpoint
 - Supports only GET and POST methodes
+- It can be easily dockerized
 
 #### Instructions
 
